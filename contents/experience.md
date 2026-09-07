@@ -1,21 +1,62 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+<div class="publication-group-heading">
+  <span>FIRST-AUTHOR WORKS</span>
+  <strong>03</strong>
+</div>
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+<article class="publication-card featured-paper">
+  <div class="publication-meta"><span class="author-role">First author</span><span>2026 · IEEE Communications Magazine</span></div>
+  <h3>A Semantic Communication-Enabled Edge-Cloud Collaborative Visual Perception System for Smart Railways</h3>
+  <p class="authors"><strong>Zhizheng Sun</strong>, L. Wei, X. Zhu, J. Liu, Y. Liu, R. Zhang</p>
+  <p>An edge–cloud collaborative perception framework that transmits task-relevant semantic masks instead of high-resolution raw video for communication-efficient smart railway applications.</p>
+  <a class="paper-link" href="https://doi.org/10.1109/MCOM.001.2500694" target="_blank" rel="noreferrer">DOI · 10.1109/MCOM.001.2500694 ↗</a>
+</article>
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+<article class="publication-card featured-paper">
+  <div class="publication-meta"><span class="author-role">First author</span><span>2026 · Journal of Real-Time Image Processing</span></div>
+  <h3>RailSegNet: Real-Time Semantic Segmentation for Rail-Scene Understanding with Structure-Aware Training</h3>
+  <p class="authors"><strong>Zhizheng Sun</strong>, X. Zhu, Y. Liu, J. Liu, X. Yu, R. Zhang</p>
+  <p>A real-time rail-scene segmentation framework that improves rail continuity and boundary quality through dual-branch supervision, consistency constraints, and morphology-aware regularization without increasing inference complexity.</p>
+  <a class="paper-link" href="https://doi.org/10.1007/s11554-026-01929-6" target="_blank" rel="noreferrer">DOI · 10.1007/s11554-026-01929-6 ↗</a>
+</article>
 
----
+<article class="publication-card featured-paper">
+  <div class="publication-meta"><span class="author-role">First author</span><span>2025 · IEEE Transactions on Instrumentation and Measurement</span></div>
+  <h3>A Causality-Inspired Capsule Network for Domain Generalization in Cross-Domain Fault Diagnosis of Rolling Bearing</h3>
+  <p class="authors"><strong>Zhizheng Sun</strong>, X. Zhu, J. Liu, X. Zhao, H. Wang, R. Zhang</p>
+  <p>A causality-inspired capsule network combining causal gating, representation disentanglement, and causal intervention to improve fault-diagnosis generalization under unseen operating conditions.</p>
+  <a class="paper-link" href="https://doi.org/10.1109/TIM.2025.3569920" target="_blank" rel="noreferrer">DOI · 10.1109/TIM.2025.3569920 ↗</a>
+</article>
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+<div class="publication-group-heading secondary-heading">
+  <span>CO-AUTHORED WORKS</span>
+  <strong>04</strong>
+</div>
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+<div class="compact-publications">
+  <article class="publication-card compact-paper">
+    <div class="publication-meta"><span>2026 · Digital Signal Processing</span></div>
+    <h3>SOED: An Efficient Small Object Enhancement Network for Real-Time Railway Signal Detection</h3>
+    <p class="authors">F. Yue, X. Zhu, <strong>Zhizheng Sun</strong>, et al.</p>
+    <a class="paper-link" href="https://doi.org/10.1016/j.dsp.2026.106296" target="_blank" rel="noreferrer">View paper ↗</a>
+  </article>
+  <article class="publication-card compact-paper">
+    <div class="publication-meta"><span>2025 · Engineering Failure Analysis</span></div>
+    <h3>A More Realistic Failure Mode and Effect Analysis Method Considering Causal Relationships and Consensus Mechanism</h3>
+    <p class="authors">S. Jiao, X. Zhu, J. Liu, Q. Ma, <strong>Zhizheng Sun</strong>, R. Zhang</p>
+    <a class="paper-link" href="https://doi.org/10.1016/j.engfailanal.2025.109329" target="_blank" rel="noreferrer">View paper ↗</a>
+  </article>
+  <article class="publication-card compact-paper">
+    <div class="publication-meta"><span>2026 · Measurement Science and Technology</span></div>
+    <h3>Multiscale Dilated Attention Convolutional Neural Network for Remaining Useful Life Prediction of Rolling Bearings in Noisy Environments</h3>
+    <p class="authors">S. Ning, X. Zhu, <strong>Zhizheng Sun</strong>, X. Wang, R. Zhang</p>
+    <a class="paper-link" href="https://doi.org/10.1088/1361-6501/ae41d6" target="_blank" rel="noreferrer">View paper ↗</a>
+  </article>
+  <article class="publication-card compact-paper">
+    <div class="publication-meta"><span>2026 · Engineering Research Express</span></div>
+    <h3>An Event-Driven Multi-Factor Method for Robust Passenger Fare Evasion Detection at Metro Turnstiles</h3>
+    <p class="authors">W. Zhu, Y. Liu, <strong>Zhizheng Sun</strong>, et al.</p>
+    <a class="paper-link" href="https://doi.org/10.1088/2631-8695/ae6549" target="_blank" rel="noreferrer">View paper ↗</a>
+  </article>
+</div>
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+<p class="publication-note">Authorship labels follow the publicly listed author order; equal contribution and corresponding authorship are not inferred.</p>
