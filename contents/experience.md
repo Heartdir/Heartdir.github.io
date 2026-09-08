@@ -1,6 +1,6 @@
 <div class="publication-group-heading">
-  <span>PUBLICATIONS · SORTED BY JOURNAL IMPACT FACTOR</span>
-  <strong>08</strong>
+  <span>FIRST-AUTHOR WORKS · SORTED BY JIF</span>
+  <strong>04</strong>
 </div>
 
 <article class="publication-card featured-paper">
@@ -20,13 +20,6 @@
 </article>
 
 <article class="publication-card featured-paper">
-  <div class="publication-meta"><span class="author-role coauthor-role">Co-author</span><span>2025 · Engineering Failure Analysis</span><span class="impact-factor">JIF 2025: 7.0</span></div>
-  <h3>A More Realistic Failure Mode and Effect Analysis Method Considering Causal Relationships and Consensus Mechanism</h3>
-  <p class="authors">S. Jiao, X. Zhu, J. Liu, Q. Ma, <strong>Zhizheng Sun</strong>, R. Zhang</p>
-  <a class="paper-link" href="https://doi.org/10.1016/j.engfailanal.2025.109329" target="_blank" rel="noreferrer">DOI · 10.1016/j.engfailanal.2025.109329 ↗</a>
-</article>
-
-<article class="publication-card featured-paper">
   <div class="publication-meta"><span class="author-role">First author</span><span>2026 · Image and Vision Computing</span><span class="impact-factor">JIF 2025: 5.0</span><span class="acceptance-status">Accepted · 3 Sep 2026</span></div>
   <h3>RSD-DETR: A Lightweight Transformer for Robust Small Object Detection with Application to Railway Signal Monitoring</h3>
   <p class="authors"><strong>Zhizheng Sun</strong>, Xiaomin Zhu, Yidong Liu, Jian Liu, Feng Yue, Runtong Zhang</p>
@@ -39,6 +32,18 @@
   <p class="authors"><strong>Zhizheng Sun</strong>, X. Zhu, Y. Liu, J. Liu, X. Yu, R. Zhang</p>
   <p>A real-time rail-scene segmentation framework that improves rail continuity and boundary quality through dual-branch supervision, consistency constraints, and morphology-aware regularization without increasing inference complexity.</p>
   <a class="paper-link" href="https://doi.org/10.1007/s11554-026-01929-6" target="_blank" rel="noreferrer">DOI · 10.1007/s11554-026-01929-6 ↗</a>
+</article>
+
+<div class="publication-group-heading secondary-heading">
+  <span>CO-AUTHORED WORKS · SORTED BY JIF</span>
+  <strong>04</strong>
+</div>
+
+<article class="publication-card featured-paper">
+  <div class="publication-meta"><span class="author-role coauthor-role">Co-author</span><span>2025 · Engineering Failure Analysis</span><span class="impact-factor">JIF 2025: 7.0</span></div>
+  <h3>A More Realistic Failure Mode and Effect Analysis Method Considering Causal Relationships and Consensus Mechanism</h3>
+  <p class="authors">S. Jiao, X. Zhu, J. Liu, Q. Ma, <strong>Zhizheng Sun</strong>, R. Zhang</p>
+  <a class="paper-link" href="https://doi.org/10.1016/j.engfailanal.2025.109329" target="_blank" rel="noreferrer">DOI · 10.1016/j.engfailanal.2025.109329 ↗</a>
 </article>
 
 <article class="publication-card featured-paper">
@@ -62,4 +67,4 @@
   <a class="paper-link" href="https://doi.org/10.1088/2631-8695/ae6549" target="_blank" rel="noreferrer">DOI · 10.1088/2631-8695/ae6549 ↗</a>
 </article>
 
-<p class="publication-note">Journal Impact Factors are 2025 JIFs released in 2026 and may change annually. Publications are ordered by JIF in descending order; ties place first-author work first. Authorship labels follow the publicly listed author order.</p>
+<p class="publication-note">Journal Impact Factors are 2025 JIFs released in 2026 and may change annually. Publications are grouped by authorship role and ordered by JIF within each group. Authorship labels follow the publicly listed author order.</p>
