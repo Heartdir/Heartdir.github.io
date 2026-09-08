@@ -80,6 +80,7 @@ a { color: var(--blue); }
 .featured-paper { border-left: 0; }
 .publication-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; margin-bottom: 10px; color: var(--muted); font-size: .68rem; font-weight: 600; text-transform: uppercase; }
 .author-role { padding: 2px 6px; color: #fff; border-radius: 3px; background: var(--blue); }
+.impact-factor { padding-left: 9px; border-left: 1px solid var(--line); color: var(--blue); white-space: nowrap; }
 .publication-card h3 { margin: 0 0 10px; color: var(--ink); font-size: 1.12rem; line-height: 1.42; }
 .publication-card p { margin-bottom: 11px; font-size: .88rem; line-height: 1.62; }
 .publication-card .authors { color: var(--muted); font-size: .78rem; }
